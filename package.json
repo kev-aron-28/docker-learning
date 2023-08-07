@@ -1,0 +1,14 @@
+{
+  "name": "docker-learning",
+  "version": "yes",
+  "main": "index.js",
+  "repository": "git@github.com:kev-aron-28/docker-learning.git",
+  "author": "Kevaron <kevtapia75@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
